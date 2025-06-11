@@ -1,3 +1,5 @@
+title: Motion Planning
+
 # Overview
 This document describes the motion planning and control subsystem for Horus. It needs to enable the drone to perform navigation in complex and cluttered environments and also find efficient paths on the macro-scale.
 

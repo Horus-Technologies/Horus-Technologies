@@ -37,10 +37,6 @@ plugins:
   - jekyll-remote-theme
 baseurl: /Horus-Technologies
 
-url: https://just-the-docs.github.io
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 # Exclude from processing.
 # The following items will not be processed, by default.
